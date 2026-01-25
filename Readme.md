@@ -90,6 +90,6 @@ Hey 👋 I'm Yassine Ben Hassine, a full-stack developer working with <b>Symfony
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/yassine-bhn/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/yassine-bhn/yassine-bhn/output/snake.svg" alt="Snake animation" />
 
 ###
