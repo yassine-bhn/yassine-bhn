@@ -19,9 +19,6 @@ Hey 👋 I'm Yassine Ben Hassine, a full-stack developer working with <b>Symfony
 ###
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yassine-bhn&theme=vision-friendly-dark&border_radius=" height="140" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=yassine-bhn&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false" height="140" alt="stats graph"  />
-
 </div>
 
 ###
