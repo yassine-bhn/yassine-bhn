@@ -5,7 +5,7 @@ Hey 👋 I'm Yassine Ben Hassine, a full-stack developer working with <b>Symfony
 
 🌱 Currently exploring <b>Kubernetes</b> and diving into <b>Angular</b><br><br>
 
-❓ Got questions about <b>Spring</b> or <b>System Design</b>? Let’s talk!<br><br>
+❓ Got questions about <b>Symfony</b> or <b>System Design</b>? Let’s talk!<br><br>
 
 ⚡ Fun fact: I’m fluent in <b>tabs</b>, not spaces 😎
 </h3>
